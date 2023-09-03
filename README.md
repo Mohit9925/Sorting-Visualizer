@@ -20,4 +20,4 @@ Check out the live demo [here](https://your-sorting-visualizer-url.com).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mohit9925/sorting-visualizer.git
+   https://github.com/Mohit9925/Sorting-Visualizer.git
