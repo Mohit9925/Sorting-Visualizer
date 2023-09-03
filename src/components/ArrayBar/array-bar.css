@@ -1,0 +1,12 @@
+.array-bar{
+    background-color: var(--secondry-foreground);
+    border: 2px dashed #fff;
+    width: 30px;
+    transition: color 2 ease;
+}
+.swap-bar{
+    
+    background-color: var(--primary-foreground);
+    border: 2px solid green;
+    
+}
